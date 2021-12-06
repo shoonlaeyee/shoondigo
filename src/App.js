@@ -1029,7 +1029,7 @@ function App() {
       .map((v) => (
         <div key={v} className="apps-item">
           <img
-            src={`/build/codigoo/ico-${v}.svg`}
+            src={`/codigoo/ico-${v}.svg`}
             alt={v}
             className="apps-item-image"
           />
@@ -1071,7 +1071,7 @@ function App() {
       <header className="cdo-header">
         <div>
           <img
-            src={`/build/codigoo/ui/logo-codigo-red.svg`}
+            src={`/codigoo/ui/logo-codigo-red.svg`}
             alt={"codigoo"}
             style={{ width: 160 }}
           />
@@ -1109,7 +1109,7 @@ function App() {
             <div className="container">
               <div className="cdo-legend-item">
                 <img
-                  src={`/build/codigoo/ico-app.svg`}
+                  src={`/codigoo/ico-app.svg`}
                   alt={"app"}
                   style={{ width: 16, height: 16, marginRight: 4 }}
                 />
@@ -1117,7 +1117,7 @@ function App() {
               </div>
               <div className="cdo-legend-item">
                 <img
-                  src={`/build/codigoo/ico-web.svg`}
+                  src={`/codigoo/ico-web.svg`}
                   alt={"app"}
                   style={{ width: 16, height: 16, marginRight: 4 }}
                 />
@@ -1125,7 +1125,7 @@ function App() {
               </div>
               <div className="cdo-legend-item">
                 <img
-                  src={`/build/codigoo/ico-cms.svg`}
+                  src={`/codigoo/ico-cms.svg`}
                   alt={"app"}
                   style={{ width: 16, height: 16, marginRight: 4 }}
                 />
@@ -1133,7 +1133,7 @@ function App() {
               </div>
               <div className="cdo-legend-item">
                 <img
-                  src={`/build/codigoo/ico-uiux.svg`}
+                  src={`/codigoo/ico-uiux.svg`}
                   alt={"app"}
                   style={{ width: 16, height: 16, marginRight: 4 }}
                 />
@@ -1175,22 +1175,22 @@ function App() {
       <footer className="cdo-footer">
         <div className="footer-icon-container">
           <img
-            src="/build/codigoo/icons/social-facebook.svg"
+            src="/codigoo/icons/social-facebook.svg"
             alt="fb"
             className="social-icon"
           />
           <img
-            src="/build/codigoo/icons/social-twitter.svg"
+            src="/codigoo/icons/social-twitter.svg"
             alt="tw"
             className="social-icon"
           />
           <img
-            src="/build/codigoo/icons/social-instagram.svg"
+            src="/codigoo/icons/social-instagram.svg"
             alt="ig"
             className="social-icon"
           />
           <img
-            src="/build/codigoo/icons/social-linkedIn.svg"
+            src="/codigoo/icons/social-linkedIn.svg"
             alt="li"
             className="social-icon"
           />
